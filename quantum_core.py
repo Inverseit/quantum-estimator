@@ -86,9 +86,6 @@ def get_sim_score(v1, v2):
         p = 0.0
     return 1 - 2 * p
 
-
-
-
 def quantum_get_closest_index(vector):
     ans = None
     max_sim = 0
